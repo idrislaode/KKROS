@@ -1,0 +1,6 @@
+iota0 : Robot IoTa versi Module Wemos
+iota1 : Robot IoTa versi IC 
+iota2 : Robot IoTa versi Encoder(putih)
+iota3 : Robot IoTa versi Encoder(ungu), sensor 1 Mux(besar) 16 channel
+iota4 : Robot IoTa versi Encoder(ungu), sensor 1 Mux(kecil) 16 channel 2023
+
