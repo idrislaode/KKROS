@@ -11,3 +11,5 @@ YPF Beta SE Version
 YPF Gamma Version
 
 YPF IoTA Version
+YPF IoTA R2 Version
+
